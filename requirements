@@ -1,4 +1,5 @@
 streamlit
 tuya-connector-python
 pandas
+plotly
 pytz
