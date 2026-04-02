@@ -3,3 +3,4 @@ tuya-connector-python
 pandas
 plotly
 pytz
+streamlit-autorefresh
