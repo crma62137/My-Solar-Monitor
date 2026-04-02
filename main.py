@@ -17,7 +17,7 @@ DEVICES = {
     "PV Solar": "eb12a07e6d81bfad689phl",
     "Inverter": "eb366e7f16c29b4d66uoab",
     "PEA MAIN": "ebc4f09a8470bd323bkia0",
-    "PEA 2": "ebc4f09a8470bd323bkia0"
+    "PEA 2": "ebe67840ae208eef35yseh"
 }
 
 # ตั้งค่าหน้าเว็บ
